@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**nkysg/nkysg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer specializing in **C++, Rust, and Go**, with **5 years of hands-on experience in blockchain development**.
 
-Here are some ideas to get you started:
+**Actively seeking senior C++/Rust/Go roles in blockchain clients, trading infrastructure, Raft-based distributed systems, storage, and high-performance backend services.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Previous experience**: Senior Software Engineer at Baidu and Crypto.com
+- **Open-source contributions**:
+  - [reth](https://github.com/paradigmxyz/reth/pulls/nkysg)
+  - [revm](https://github.com/bluealloy/revm/commits?author=nkysg)
+  - [revm-inspectors](https://github.com/paradigmxyz/revm-inspectors/commits?author=nkysg)
+  - [foundry-fork-db](https://github.com/foundry-rs/foundry-fork-db/commits?author=nkysg)
+  - [CometBFT](https://github.com/cometbft/cometbft/pulls/songgaoye)
+  - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/pulls/songgaoye)
+- **Core expertise**: Distributed storage, EVM-compatible chains, Cosmos, Aptos, CLOB trading systems, and reliable backend services.
+
+📫 **Contact**: [nkysggsy@gmail.com](mailto:nkysggsy@gmail.com)

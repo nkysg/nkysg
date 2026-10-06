@@ -4,7 +4,7 @@ I am a software engineer specializing in **C++, Rust, and Go**, with **5 years o
 
 **Actively seeking senior C++/Rust/Go roles in blockchain clients, trading infrastructure, Raft-based distributed systems, storage, and high-performance backend services.**
 
-- **Previous experience**: Senior Software Engineer at Baidu and Crypto.com
+- **Previous experience**: Senior Software Engineer at Baidu
 - **Open-source contributions**:
   - [reth](https://github.com/paradigmxyz/reth/pulls/nkysg)
   - [revm](https://github.com/bluealloy/revm/commits?author=nkysg)
